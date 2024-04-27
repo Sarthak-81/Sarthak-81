@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sarthak Goyal
-- 👀 I’m interested in Web Designing, Computer Security and Back-End Development.
-- 🌱 I’m currently pursuing B.Tech from G.B.Pant Engineering College and my branch is Electronics and Communication.
-- 💞
+- 👀 I’m interested in Web Designing, Computer Security and Full Stack Development.
+- 🌱 I did B.Tech from G.B.Pant Engineering College and my branch was Electronics and Communication.
+- 💞 I'm in love with coding. 
 - 📫 How to reach me?
   Linkedin - http://www.linkedin.com/in/sarthak-goyal-ab1b08130
   Instagram - https://www.instagram.com/_sarthak_81/
